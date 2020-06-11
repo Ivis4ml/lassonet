@@ -29,4 +29,4 @@ python examples/run_demo_mice.py
 ```
 See core/lassonet/lassonet_trainer.py and core/lassonet/models.py for details.
 
-One png file will be saved in your directory, which is a visualization of the results on the MICE dataset. An interactive version is provided in the notebook ```examples/run_demo_mice.ipynb```. The paper presents many more experiments on real-world datasets.
+One png file will be saved in your directory, which is a visualization of the results on the MICE dataset. An interactive version is provided in the notebook ```examples/run_demo_mice.ipynb```. See the paper for details on the Mice dataset. The paper also presents more experiments on real-world datasets.
